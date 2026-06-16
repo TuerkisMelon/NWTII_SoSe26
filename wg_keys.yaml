@@ -4,3 +4,7 @@
 #   ip: "<your IP address>"
 #   wg_key: "<your public wg key>"
 
+- team: 3
+  name: "MettPi"
+  ip: "192.168.33.4"
+  wg_key: "P4VYDqRXhzl3jQPuIMcIxb0YnDVmfMjQvt0iSmClWg4="
