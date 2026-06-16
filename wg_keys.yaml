@@ -8,3 +8,8 @@
   name: "MettPi"
   ip: "192.168.33.4"
   wg_key: "P4VYDqRXhzl3jQPuIMcIxb0YnDVmfMjQvt0iSmClWg4="
+  
+- team: Eletric Force Power
+  name: "apoehl"
+  ip: "192.168.33.3"
+  wg_key: "jksZFqQ1CL68AfNDUOCt28NNInksYEyEKjkehQ0b320="
