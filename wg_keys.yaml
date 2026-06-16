@@ -1,0 +1,5 @@
+# An entry has to look like:
+# - team: X
+#   name: "<your name>"
+#   wg_key: "<your public wg key>"
+
