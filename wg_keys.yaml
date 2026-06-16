@@ -1,5 +1,6 @@
 # An entry has to look like:
 # - team: X
 #   name: "<your name>"
+#   ip: "<your IP address>"
 #   wg_key: "<your public wg key>"
 
